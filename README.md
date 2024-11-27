@@ -1,4 +1,4 @@
-# InnovatorsPlayground  
+# InnovatorsPlayground  Tier 3
 
 Welcome to **InnovatorsPlayground** – a collaborative platform where young minds come together to explore, learn, and innovate in the fields of programming, web development, artificial intelligence, robotics, and IoT.  
 
