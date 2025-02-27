@@ -16,7 +16,7 @@ penup()
 goto(0,100)
 pendown()
 
-fillcolor('yellow')
+fillcolor('blue')
 begin_fill()
 for i in range(4):
     if i==0 or i==2:
