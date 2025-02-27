@@ -1,5 +1,5 @@
 from turtle import *
-## Draw BD Flag Using Loop // Ctrl+C=Copy   Ctrl+V=Paste 
+## Draw Ukrane Flag Using Loop // Ctrl+C=Copy   Ctrl+V=Paste 
 ##range(start->d0,end, inc/dec->d1)
 fillcolor('yellow')
 begin_fill()
